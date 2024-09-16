@@ -52,8 +52,8 @@ pandas>=1.4.0
 pendulum
 Pillow
 planetary_computer
-psycopg2
-# psycopg2-binary
+# psycopg2
+psycopg2-binary
 pyarrow>=14.0.1
 pydantic
 pygeos
